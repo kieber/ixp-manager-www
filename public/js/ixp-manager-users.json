@@ -18,7 +18,7 @@
             "country": "Tanzania",
             "cc": "TZ",
             "url": "http://www.aixp.or.tz/",
-            "ixf_id": 0,
+            "ixf_id": 212,
             "gps": [-3.3981431,36.6421075],
             "since": 0
         },
@@ -29,7 +29,7 @@
             "country": "Thailand",
             "cc": "th",
             "url": "https://bknix.co.th/en/",
-            "ixf_id": 0,
+            "ixf_id": 587,
             "gps": [13.7037519,100.5662886],
             "since": 0
         },
@@ -40,7 +40,7 @@
             "country": "Germany",
             "cc": "DE",
             "url": "http://www.bcix.de/bcix/",
-            "ixf_id": 0,
+            "ixf_id": 21,
             "gps": [52.514712,13.3970436],
             "since": 0
         },
@@ -51,7 +51,7 @@
             "country": "Cameroon",
             "cc": "CM",
             "url": "",
-            "ixf_id": 0,
+            "ixf_id": 528,
             "gps": [3.8302938,11.3703663],
             "since": 2016
         },
@@ -73,7 +73,7 @@
             "country": "Denmark",
             "cc": "DK",
             "url": "http://www.dix.dk/",
-            "ixf_id": 0,
+            "ixf_id": 29,
             "gps": [55.6879765,12.5259387],
             "since": 0
         },
@@ -106,7 +106,7 @@
             "country": "Ukraine",
             "cc": "UA",
             "url": "http://giganet.ua/en",
-            "ixf_id": 0,
+            "ixf_id": 165,
             "gps": [48.4777395,28.4064509],
             "since": 0
         },
@@ -128,7 +128,7 @@
             "country": "Greece",
             "cc": "GR",
             "url": "https://www.gr-ix.gr/",
-            "ixf_id": 0,
+            "ixf_id": 6,
             "gps": [38.7820859,21.8064801],
             "since": 0
         },
@@ -172,7 +172,7 @@
             "country": "UK",
             "cc": "UK",
             "url": "https://www.ixliverpool.net/",
-            "ixf_id": 1302,
+            "ixf_id": 578,
             "gps": [53.395804,-2.9803111],
             "since": 2016
         },
@@ -183,7 +183,7 @@
             "country": "Kenya",
             "cc": "KE",
             "url": "http://www.tespok.co.ke/",
-            "ixf_id": 0,
+            "ixf_id": 49,
             "gps": [0.0058764,37.7667287],
             "since": 0
         },
@@ -194,7 +194,7 @@
             "country": "UK",
             "cc": "UK",
             "url": "http://www.lonap.net/",
-            "ixf_id": 0,
+            "ixf_id": 18,
             "gps": [51.5149822,-0.1063719],
             "since": 2014
         },
@@ -238,7 +238,7 @@
             "country": "UK",
             "cc": "UK",
             "url": "http://ixleeds.net/",
-            "ixf_id": 0,
+            "ixf_id": 281,
             "gps": [53.7924,-1.5405],
             "since": 2010
         },
@@ -271,7 +271,7 @@
             "country": "USA",
             "cc": "US",
             "url": "http://www.nwax.net/",
-            "ixf_id": 0,
+            "ixf_id": 222,
             "gps": [45.5140736,-122.6840639],
             "since": 0
         },
@@ -293,7 +293,7 @@
             "country": "USA",
             "cc": "US",
             "url": "http://www.phoenix-ix.net/",
-            "ixf_id": 0,
+            "ixf_id": 268,
             "gps": [33.5010764,-112.0845551],
             "since": 0
         },
@@ -304,7 +304,7 @@
             "country": "Liechtenstein",
             "cc": "LI",
             "url": "http://www.rheintal-ix.net/",
-            "ixf_id": 0,
+            "ixf_id": 483,
             "gps": [47.3835238,9.596403],
             "since": 0
         },
@@ -315,7 +315,7 @@
             "country": "Austria",
             "cc": "AT",
             "url": "https://www.saix.at/",
-            "ixf_id": 0,
+            "ixf_id": 553,
             "gps": [47.79222,13.01056],
             "since": 2016
         },
@@ -326,7 +326,7 @@
             "country": "USA",
             "cc": "US",
             "url": "https://www.sfmix.org/",
-            "ixf_id": 0,
+            "ixf_id": 223,
             "gps": [37.7576171,-122.5776844],
             "since": 0
         },
@@ -359,18 +359,18 @@
             "country": "Sweden",
             "cc": "SE",
             "url": "http://www.sthix.net/",
-            "ixf_id": 0,
+            "ixf_id": 144,
             "gps": [59.3297503,18.069335],
             "since": 0
         },
         {
-            "name": "Swiss Internet Exchange",
+            "name": "SwissIX Internet Exchange",
             "shortname": "SwissIX",
             "city": null,
             "country": "Switzerland",
             "cc": "CH",
             "url": "https://www.swissix.ch/",
-            "ixf_id": 0,
+            "ixf_id": 34,
             "gps": [46.5962978,7.5741755],
             "since": 0
         },
@@ -381,7 +381,7 @@
             "country": "Tanzania",
             "cc": "TZ",
             "url": "http://www.tix.or.tz/",
-            "ixf_id": 0,
+            "ixf_id": 50,
             "gps": [-6.8138351,39.2893366],
             "since": 0
         },
@@ -392,7 +392,7 @@
             "country": "Uganda",
             "cc": "UG",
             "url": "https://www.uixp.co.ug/",
-            "ixf_id": 0,
+            "ixf_id": 96,
             "gps": [1.5240572,32.9719305],
             "since": 0
         }
